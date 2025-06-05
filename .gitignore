@@ -1,1 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+
+
+# Django secrets
 config.py
+
+
+# VSCode or IDE settings (optional)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store

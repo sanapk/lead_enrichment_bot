@@ -36,8 +36,6 @@ if file:
                             "company_name": name,
                             "website": info.get("website", ""),
                             "industry": info.get("industry", ""),
-                            "company_size": info.get("company_size", ""),
-                            "hq_location": info.get("hq_location", ""),
                             "summary_from_llm": ai.get("summary", ""),
                             "automation_pitch_from_llm": ai.get("pitch", "")
                         })
