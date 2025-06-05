@@ -15,11 +15,13 @@ sample input:
 sample output:
 - already mentioned in the data/enriched_output.csv
 
+sample video:
+https://drive.google.com/file/d/1Ptsj2OAzS7nQ7XbQ1FHkrC-8yFyGtXRW/view?usp=drivesdk
+
 ```bash
 git clone https://sanapk/lead_enrichment_bot
 cd lead_enrichment_bot
 pip install -r requirements.txt
-to run:
 streamlit run app.py
 
 
